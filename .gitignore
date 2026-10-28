@@ -1,0 +1,40 @@
+# Binaries & Executables
+*.exe
+*.out
+*.app
+*.bin
+plagiarism_detector.exe
+
+# Object & Library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debugging, logs & dumps
+*.log
+*.dSYM/
+*.suo
+*.user
+*.pdb
+out_*.html
+test_*.txt
+*.tmp
+
+# Operating System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# Temporary test folders
+scratch/
